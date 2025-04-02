@@ -23,6 +23,15 @@
 - 🔎 Abierto a oportunidades en `desarrollo de software` y `análisis de datos`.
 
 ---
+## Informaición extra!!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matias-condori/" target="_blank">
+    <button>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </button>
+  </a>
+</p>
 
 ### 🎧 Lo que estoy escuchando en Spotify
 
