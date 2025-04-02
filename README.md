@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-- 💻 Soy un desarrollador de software con experiencia en `Java`, `Python`, `Análisis de Datos` y `Desarrollo Web`.
+- 💻 Soy un Estudiante de Ingeniería de Sistemas con conocimiento en `Java`, `Python`, `Análisis de Datos` y `Desarrollo Web`.
 - 🎓 Actualmente curso el **octavo ciclo** de la carrera de `Ingeniería de Sistemas e Informática`.
 - 📊 Aprendiendo sobre `Análisis de Datos`, `Excel` y `Power BI`.
 - 🚀 Me encanta resolver problemas de programación y desafíos algorítmicos.
