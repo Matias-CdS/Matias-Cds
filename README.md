@@ -1,8 +1,7 @@
 <h1 align="center">Hola, soy Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+de+Software;Apasionado+por+la+programación;Siempre+aprendiendo+nuevas+tecnologías;Java+%7C+Python+%7C+Web+Development;Interesado+en+Sistemas+Distribuidos+y+Seguridad+Informática">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C713&width=435&lines=Ingenier%C3%ADa+de+Sistemas+e+Inform%C3%A1tica;Apasionado++por+la+programaci%C3%B3n;Aprendiendo+nuevas+tecnolog%C3%ADas;%7C+Java+%7C+Python+%7C+SQL+%7C+HTML+%7C+CSS+%7C+;Desarrollo+Web+y++An%C3%A1lisis+de+Datos" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +15,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-- 💻 Soy un Estudiante de Ingeniería de Sistemas con conocimiento en `Java`, `Python`, `Análisis de Datos` y `Desarrollo Web`.
+- 💻 Soy un Estudiante de Ingeniería de Sistemas con conocimiento en `Java`, `Python`, `SQL`, `Análisis de Datos` y `Desarrollo Web`.
 - 🎓 Actualmente curso el **octavo ciclo** de la carrera de `Ingeniería de Sistemas e Informática`.
 - 📊 Aprendiendo sobre `Análisis de Datos`, `Excel` y `Power BI`.
 - 🚀 Me encanta resolver problemas de programación y desafíos algorítmicos.
