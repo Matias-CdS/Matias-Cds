@@ -43,9 +43,47 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 ---
-
-## 🐍 Mi actividad en GitHub
-	
-<p align="center">
-  <img src="https://github.com/Matias-CdS/Matias-CdS/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
+## 🛠 Tecnologías Conocidas
+<div>
+	<p style="display: inline-block;">
+	<p>
+		<kbd>
+			<kbd>Programming Languages</kbd>
+			<br>
+			<br>
+			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+			<img alt="Java" src="https://img.shields.io/badge/Java-05122A?logo=openjdk&style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Machine Learning</kbd>
+			<br>
+			<br>
+			<img alt="Numpy" src="https://img.shields.io/badge/Numpy-05122A?style=flat&logo=numpy">
+			<img alt="Pandas" src="https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas">
+			<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-05122A?style=flat">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Databases and Cloud Hosting</kbd>
+			<br>
+			<br>
+			<img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
+		</kbd>
+	</p>
+	<p>
+		<kbd>
+			<kbd>Software and Tools</kbd>
+			<br>
+			<br>
+			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
+			<img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
+			<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
+			<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
+			<img alt="Static Badge" src="https://img.shields.io/badge/Google%20Colab-05122A?style=flat&logo=Google%20Colab">
+		</kbd>
+	</p>
+    </p>
+</div>
