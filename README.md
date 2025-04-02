@@ -27,12 +27,12 @@
 
 ### 🎧 Lo que estoy escuchando en Spotify
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=TU_USER_ID)](https://open.spotify.com/user/TU_USER_ID)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/)
 
 ---
 
 ## 🐍 Mi actividad en GitHub
 	
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Matias-CdS/Matias-CdS/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Matias-CdS/Matias-CdS/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
